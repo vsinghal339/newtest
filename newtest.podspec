@@ -6,6 +6,6 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/Kilo-Loco/LocoFramework"
   spec.license      = "MIT"
   spec.author             = { "vaibhav singhal" => "vaibhav.singhal@gmail.com" }
-  spec.source       = { :git => "https://github.com/vsinghal339/newtest.git", :tag => "1.0.0" }
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  spec.source       = { :git => "https://github.com/vsinghal339/newtest.git", :tag => "main" }
+  spec.source_files  = "newtest/**/*.{h,m}"
 end
